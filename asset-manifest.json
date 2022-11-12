@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iterative_design/static/css/main.073c9b0a.css",
+    "main.js": "/iterative_design/static/js/main.099a5be8.js",
+    "static/media/logo.svg": "/iterative_design/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/iterative_design/index.html",
+    "main.073c9b0a.css.map": "/iterative_design/static/css/main.073c9b0a.css.map",
+    "main.099a5be8.js.map": "/iterative_design/static/js/main.099a5be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.099a5be8.js"
+  ]
+}
